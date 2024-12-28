@@ -20,10 +20,12 @@
 
 La primera generación de los ordenadores abarca desde el año 1940 hasta el año 1952 , aunque realmente estas fechas son de las maquinas comerciales que se podrían llamar la primera generación de computadoras .
 
+************************************
 ### 1.1  El Ábaco
 
 Es posiblemente el primer dispositivo mecánico , de contabilidad de la historia , este tiene unos 5.000 años de antigüedad y se ha utilizado en varios lugares del mundo .
-El ábaco es un dispositivo capaz de representar y almacenar datos , a este dispositivo no se le puede llamar computadora pues carece del elemento fundamental llamado programa .  
+El ábaco es un dispositivo capaz de representar y almacenar datos , a este dispositivo no se le puede llamar computadora pues carece del elemento fundamental llamado programa .
+************************************
 
 ### 1.2 Maquina Analista de Charles Babbage
 
