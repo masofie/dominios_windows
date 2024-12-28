@@ -33,14 +33,14 @@ Charles Babbage fue un visionario , científico y matemático ingles , fue el ma
 Charles invento un proyecto mas ambicioso , en el año 1934 su revolucionaria Maquina Analista , esta era una calculadora polivalente con capacidad para operar de forma distinta según el problema que se le planteara , es decir algo muy cerca a una computadora de propósito en general . 
 En esta aparece elementos lógicos de los ordenadores modernos , como dispositivos de entrada y salida , unidad de control , unidad lógica y una memoria . La programación se debía realizar mediante fichas perforadas .
 A pesar de lo bueno que era el proyecto no se pudo realizar por razones económicas e industriales . Esto se debió que para hacer el proyecto requería grandes mecanismos y una gran área que cubría un campo de fútbol y necesitaba accionarse por una locomotora .
-
+************************************
 
 ### 1.3 La Calculadora de Pascal 
 
 Blaise Pascal fue un político , matemático , físico , teólogo , católico, filosofo y escritor francés . Sus contribuciones a la matemática y a la historia natural incluyen el diseño y construcción de calculadores mecánicas .
 Blaise Pascal diseño la Pascalina fue la primera calculadora que funcionaba a base de ruedas y engranajes . De manera similar a como leemos los números en el cuentakilómetros de un automóvil .
 A partir de ese movimiento se fue sucediendo nuevos modelos de calculadoras mecánicas , con distintas variaciones y mejoras .
-
+************************************
 ### 1.4 La Calculadora de Leibniz 
 
 Esta calculadora se invento por Leibniz en el año 1672 , fue utilizado durante tres siglos por los miembros de la computación , hasta la llegada de la calculadora electrónica a mediados de la década de 1970 . 
@@ -50,26 +50,27 @@ La calculadora de  Leibniz es un tambor forma parte de un cilindro , con un conj
 
 Se utilizo como motor de calculo de una clase de calculadoras mecánicas . 
 Pero esta se hizo famosa gracias a Thomas de Colmar cuando lo uso en su Aritmometro , la primera maquina de calcular , que se vendió de forma masiva . También se utilizo en la calculadora Curta , una calculadora portátil muy popular introducida a mediados del siglo XX . 
-
+************************************
 
 ## 2. Primera Generación de la Informática 
 
 ### 2.1 Tarjeta Perforada 
-
+************************************
 Es una lamina hecha de cartulina que contiene información en forma de perforaciones según un código binario . Estos fueron los primeros medios utilizados para ingresar información e instrucciones a una computadora en los años 1960 y 1970 .
-
+************************************
 ### 2.2 Cinta Perforadora 
 
 Esta cinta se creo en el año 184 , es un método obsoleto de almacenamiento de datos , que consiste en una larga tira de papel en la que se realizan agujeros para almacenar los datos .
-
+************************************
 
 ### 2.3  Colossus 
 
 Fue uno de los primeros ordenadores digitales . La maquina Colossus fue diseñada originalmente por Tommy Flowers en la Post Office . El prototipo Mark 1 . Esta computadora se creo 1944 .
-
+************************************
 ### 2.4 ENIAC 
 
 ENIAC nació en 1943 , aunque no se termino de construir hasta 1946 , fue un contacto entre el ejercito de EE.UU y sus desarrolladores John Mauchly , llamado Proyecto PX con una subvención de 5000.00 dolares .
+************************************
 
 ### 2.5  EDVAC
 
