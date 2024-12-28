@@ -23,7 +23,7 @@ Blaise Pascal fue un político , matemático , físico , teólogo , católico, f
 Blaise Pascal diseño la Pascalina fue la primera calculadora que funcionaba a base de ruedas y engranajes . De manera similar a como leemos los números en el cuentakilómetros de un automóvil .
 A partir de ese movimiento se fue sucediendo nuevos modelos de calculadoras mecánicas , con distintas variaciones y mejoras .
 
-#### 1.4 La Calculadora de Leibniz 
+### 1.4 La Calculadora de Leibniz 
 
 Esta calculadora se invento por Leibniz en el año 1672 , fue utilizado durante tres siglos por los miembros de la computación , hasta la llegada de la calculadora electrónica a mediados de la década de 1970 . 
 La calculadora de  Leibniz es un tambor forma parte de un cilindro , con un conjunto de dientes de longitud incremental a la que se le acopia una rueda de conteo .
