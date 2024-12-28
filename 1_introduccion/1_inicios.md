@@ -32,3 +32,27 @@ La calculadora de  Leibniz es un tambor forma parte de un cilindro , con un conj
 
 Se utilizo como motor de calculo de una clase de calculadoras mecánicas . 
 Pero esta se hizo famosa gracias a Thomas de Colmar cuando lo uso en su Aritmometro , la primera maquina de calcular , que se vendió de forma masiva . También se utilizo en la calculadora Curta , una calculadora portátil muy popular introducida a mediados del siglo XX . 
+
+
+## 2. Primera Generación de la Informática 
+
+### 2.1 Tarjeta Perforada 
+
+Es una lamina hecha de cartulina que contiene información en forma de perforaciones según un código binario . Estos fueron los primeros medios utilizados para ingresar información e instrucciones a una computadora en los años 1960 y 1970 .
+
+### 2.2 Cinta Perforadora 
+
+Esta cinta se creo en el año 184 , es un método obsoleto de almacenamiento de datos , que consiste en una larga tira de papel en la que se realizan agujeros para almacenar los datos .
+
+
+### 2.3  Colossus 
+
+Fue uno de los primeros ordenadores digitales . La maquina Colossus fue diseñada originalmente por Tommy Flowers en la Post Office . El prototipo Mark 1 . Esta computadora se creo 1944 .
+
+### 2.4 ENIAC 
+
+ENIAC nació en 1943 , aunque no se termino de construir hasta 1946 , fue un contacto entre el ejercito de EE.UU y sus desarrolladores John Mauchly , llamado Proyecto PX con una subvención de 5000.00 dolares .
+
+### 2.5  EDVAC
+
+Fue la primera computadora electrónica , echa en el año 1949 por Von Neumann . A diferencia de la ENIAC , no era decimal , sino binaria y tuvo el primer programa diseñado para ser almacenado . El diseño se convierto en estándar de arquitectura para la mayoría de componentes modernos . 
