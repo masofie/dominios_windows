@@ -1,5 +1,21 @@
 # INICIOS
 
+## Indice
+- [INICIOS](#inicios)
+  - [Indice](#indice)
+  - [1. Introducción](#1-introducción)
+    - [1.1  El Ábaco](#11--el-ábaco)
+    - [1.2 Maquina Analista de Charles Babbage](#12-maquina-analista-de-charles-babbage)
+    - [1.3 La Calculadora de Pascal](#13-la-calculadora-de-pascal)
+    - [1.4 La Calculadora de Leibniz](#14-la-calculadora-de-leibniz)
+  - [2. Primera Generación de la Informática](#2-primera-generación-de-la-informática)
+    - [2.1 Tarjeta Perforada](#21-tarjeta-perforada)
+    - [2.2 Cinta Perforadora](#22-cinta-perforadora)
+    - [2.3  Colossus](#23--colossus)
+    - [2.4 ENIAC](#24-eniac)
+    - [2.5  EDVAC](#25--edvac)
+
+
 ## 1. Introducción 
 
 La primera generación de los ordenadores abarca desde el año 1940 hasta el año 1952 , aunque realmente estas fechas son de las maquinas comerciales que se podrían llamar la primera generación de computadoras .
