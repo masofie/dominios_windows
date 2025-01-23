@@ -75,3 +75,6 @@ ENIAC nació en 1943 , aunque no se termino de construir hasta 1946 , fue un con
 ### 2.5  EDVAC
 
 Fue la primera computadora electrónica , echa en el año 1949 por Von Neumann . A diferencia de la ENIAC , no era decimal , sino binaria y tuvo el primer programa diseñado para ser almacenado . El diseño se convierto en estándar de arquitectura para la mayoría de componentes modernos . 
+
+
+- **Responde:** [Preguntas](1_inicios_preguntas.md)
