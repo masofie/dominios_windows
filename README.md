@@ -8,8 +8,8 @@ En esta guía aprenderás a instalar y configurar controladores de dominio, unir
 
 📂 Contenido
 
-1. [📌 Instalación de Controlador de Dominios](./1-instalaci%C3%B3n-de-controlador-de-dominio.md)
-2. [⚡Instalación de Controlador de Dominios con PowerShell](./2-controlador-en-powershell.md)
-3. [🖥️ Unir un equipo de Windows al Domino](./3-unir-un-equipo-al-dominio.md)
-4. [🖧 Instalación de DC Adicional](./4-instalacion-de-dc-adicional.md)
-5. [🗄️ Instalación de DC Secundario](./5-instalacion-de-dc-secundario.md)
+1. [📌 Instalación de Controlador de Dominios](./dominios_widows/1-instalación-de-controlador-de-dominio.md)
+2. [⚡Instalación de Controlador de Dominios con PowerShell](./dominios_widows/2-controlador-en-powershell.md)
+3. [🖥️ Unir un equipo de Windows al Domino](./dominios_widows/3-unir-un-equipo-al-dominio.md)
+4. [🖧 Instalación de DC Adicional](./dominios_widows/4-instalacion-de-dc-adicional.md)
+5. [🗄️ Instalación de DC Secundario](./dominios_widows/5-instalacion-de-dc-secundario.md)
